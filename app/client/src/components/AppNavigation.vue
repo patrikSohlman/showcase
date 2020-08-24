@@ -28,7 +28,7 @@ export default {
     name: 'AppNavigation',
     data() {
         return {
-            appTitle: 'Patrik Sohlman',
+            appTitle: 'Our playground',
             drawer: false,
             items: [
                 { title: 'Menu' },
